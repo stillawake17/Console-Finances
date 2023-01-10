@@ -130,7 +130,7 @@ let dollarUS = Intl.NumberFormat("en-US", {
     currency: "USD",
 });
 
-alert(dollarUS.format(maxNumber));
+// alert(dollarUS.format(maxNumber));
 
 // The following prints out the text
 console.log("Financial Analysis");
